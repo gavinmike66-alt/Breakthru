@@ -5,5 +5,25 @@
   "author": {
     "name": "Mike Gavin"
   },
-  "keywords": ["notes", "daily-reports", "ride-with", "rep-activity"]
+  "keywords": ["notes", "daily-reports", "ride-with", "rep-activity"],
+  "skills": [
+    {
+      "name": "daily-report-parser",
+      "path": "./skills/daily-report-parser/SKILL.md"
+    },
+    {
+      "name": "ride-with-recap",
+      "path": "./skills/ride-with-recap/SKILL.md"
+    }
+  ],
+  "commands": [
+    {
+      "name": "parse-notes",
+      "path": "./commands/parse-notes.md"
+    },
+    {
+      "name": "recap",
+      "path": "./commands/recap.md"
+    }
+  ]
 }

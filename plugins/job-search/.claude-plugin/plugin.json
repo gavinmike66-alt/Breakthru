@@ -5,5 +5,21 @@
   "author": {
     "name": "Mike Gavin"
   },
-  "keywords": ["jobs", "applications", "networking"]
+  "keywords": ["jobs", "applications", "networking"],
+  "skills": [
+    {
+      "name": "application-tracker",
+      "path": "./skills/application-tracker/SKILL.md"
+    }
+  ],
+  "commands": [
+    {
+      "name": "applications",
+      "path": "./commands/applications.md"
+    },
+    {
+      "name": "follow-up",
+      "path": "./commands/follow-up.md"
+    }
+  ]
 }

@@ -5,5 +5,25 @@
   "author": {
     "name": "Mike Gavin"
   },
-  "keywords": ["territory", "performance", "weekly-review", "reps"]
+  "keywords": ["territory", "performance", "weekly-review", "reps"],
+  "skills": [
+    {
+      "name": "weekly-review",
+      "path": "./skills/weekly-review/SKILL.md"
+    },
+    {
+      "name": "rep-performance",
+      "path": "./skills/rep-performance/SKILL.md"
+    }
+  ],
+  "commands": [
+    {
+      "name": "weekly",
+      "path": "./commands/weekly.md"
+    },
+    {
+      "name": "rep-review",
+      "path": "./commands/rep-review.md"
+    }
+  ]
 }

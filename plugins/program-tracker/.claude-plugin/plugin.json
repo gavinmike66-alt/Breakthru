@@ -5,5 +5,25 @@
   "author": {
     "name": "Mike Gavin"
   },
-  "keywords": ["programs", "suppliers", "tracking", "consolidation"]
+  "keywords": ["programs", "suppliers", "tracking", "consolidation"],
+  "skills": [
+    {
+      "name": "program-consolidation",
+      "path": "./skills/program-consolidation/SKILL.md"
+    },
+    {
+      "name": "program-status",
+      "path": "./skills/program-status/SKILL.md"
+    }
+  ],
+  "commands": [
+    {
+      "name": "programs",
+      "path": "./commands/programs.md"
+    },
+    {
+      "name": "consolidate",
+      "path": "./commands/consolidate.md"
+    }
+  ]
 }
