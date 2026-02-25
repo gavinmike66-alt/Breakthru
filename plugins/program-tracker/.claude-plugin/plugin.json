@@ -1,0 +1,9 @@
+{
+  "name": "program-tracker",
+  "version": "1.0.0",
+  "description": "Track and consolidate 21 supplier programs across varied formats",
+  "author": {
+    "name": "Mike Gavin"
+  },
+  "keywords": ["programs", "suppliers", "tracking", "consolidation"]
+}

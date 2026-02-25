@@ -1,0 +1,9 @@
+{
+  "name": "note-parser",
+  "version": "1.0.0",
+  "description": "Parse rep daily reports and ride-with recap notes into structured data",
+  "author": {
+    "name": "Mike Gavin"
+  },
+  "keywords": ["notes", "daily-reports", "ride-with", "rep-activity"]
+}

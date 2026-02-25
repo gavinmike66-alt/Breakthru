@@ -1,0 +1,9 @@
+{
+  "name": "territory-reviews",
+  "version": "1.0.0",
+  "description": "Weekly territory performance reporting and rep analysis",
+  "author": {
+    "name": "Mike Gavin"
+  },
+  "keywords": ["territory", "performance", "weekly-review", "reps"]
+}

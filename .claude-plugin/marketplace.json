@@ -1,0 +1,44 @@
+{
+  "name": "breakthru-sales",
+  "owner": {
+    "name": "Mike Gavin"
+  },
+  "metadata": {
+    "description": "Breakthru Beverage Group field sales management plugins for Palm Beach County",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "note-parser",
+      "source": "./plugins/note-parser",
+      "description": "Parse rep daily reports and ride-with recap notes into structured data",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": ["notes", "daily-reports", "ride-with", "rep-activity"]
+    },
+    {
+      "name": "program-tracker",
+      "source": "./plugins/program-tracker",
+      "description": "Track and consolidate 21 supplier programs across varied formats",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": ["programs", "suppliers", "tracking", "consolidation"]
+    },
+    {
+      "name": "territory-reviews",
+      "source": "./plugins/territory-reviews",
+      "description": "Weekly territory performance reporting and rep analysis",
+      "version": "1.0.0",
+      "category": "sales",
+      "tags": ["territory", "performance", "weekly-review", "reps"]
+    },
+    {
+      "name": "job-search",
+      "source": "./plugins/job-search",
+      "description": "Track job applications, contacts, and follow-ups",
+      "version": "1.0.0",
+      "category": "career",
+      "tags": ["jobs", "applications", "networking"]
+    }
+  ]
+}

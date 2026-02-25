@@ -1,0 +1,9 @@
+{
+  "name": "job-search",
+  "version": "1.0.0",
+  "description": "Track job applications, contacts, and follow-ups",
+  "author": {
+    "name": "Mike Gavin"
+  },
+  "keywords": ["jobs", "applications", "networking"]
+}
